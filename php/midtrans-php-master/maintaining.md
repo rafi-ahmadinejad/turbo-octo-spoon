@@ -10,3 +10,4 @@
 - Github Release and Master Branch is automatically synced to [the Packagist version](https://packagist.org/packages/midtrans/midtrans-php)
   - Because of configured integration on Github & Packagist
   - To edit integration config sign in with the Midtrans Packagist Account
+
